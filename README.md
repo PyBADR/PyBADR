@@ -1,16 +1,33 @@
-## Hi there 👋
+# BDR.AI — Decision Intelligence Architecture
 
-<!--
-**PyBADR/PyBADR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+This GitHub profile represents **reference-grade decision intelligence systems**.
 
-Here are some ideas to get you started:
+## What This Is
+- Governed decision platforms
+- Explicit authority and accountability enforcement
+- Evaluation harnesses as release gates
+- Architectures designed for regulatory, legal, and audit review
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What This Is NOT
+- Notebooks
+- ML demos
+- Kaggle-style experiments
+- Unbounded automation
+
+## Reference System
+The BDR Insurance Decision Intelligence Platform is a **frozen reference architecture** where:
+
+- No decision executes without authority
+- No release passes without evaluation
+- No business logic exists in UI layers
+
+Hugging Face Spaces are used strictly for **simulation and interface rendering**.  
+All governance, authority, and execution logic lives in GitHub.
+
+## Status
+Architecture: **FROZEN**  
+Mutability: **DISALLOWED**  
+Purpose: **Reference & regulatory-grade systems**
+
+This profile is intentionally minimal.
+The architecture speaks for itself.
